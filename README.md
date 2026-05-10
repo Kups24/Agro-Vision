@@ -1,7 +1,7 @@
 # Agro Vision  🌿
 **AI-Based Plant Health Diagnosis Application**
 
-Built as a 2nd-year Software Engineering project at NUST, Agro Vision Pro helps farmers identify plant diseases using machine learning.
+Built as a 2nd-year Computer Science  project at NUST, Agro Vision Pro helps farmers identify plant diseases using machine learning.
 
 ## 🛠️ Tech Stack
 * **Framework:** Flutter (Cross-platform)
