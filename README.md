@@ -1,17 +1,15 @@
-# agro_vision
+# Agro Vision  🌿
+**AI-Based Plant Health Diagnosis Application**
 
-A new Flutter project.
+Built as a 2nd-year Software Engineering project at NUST, Agro Vision Pro helps farmers identify plant diseases using machine learning.
 
-## Getting Started
+## 🛠️ Tech Stack
+* **Framework:** Flutter (Cross-platform)
+* **Backend:** Firebase (Auth & Cloud Storage)
+* **AI Integration:** TensorFlow Lite (Disease Recognition)
+* **Role:** Lead Developer & Database Administrator
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+* Real-time image recognition for plant diseases.
+* Secure farmer authentication and profile history.
+* Mobile and Web support.
